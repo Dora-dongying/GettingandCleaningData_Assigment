@@ -2,6 +2,7 @@
 This is the week4 programming assignment for Getting and Cleaning Data course on coursera.
 
 The script does the following functions as required:  
+
     0. Download and unzip the files using the url. Import the ".txt" files into R 
        as data frames.  
     1. Merges the training and the test sets to create one data set.  
